@@ -1,0 +1,16 @@
+molecule_chembl_id,canonical_smiles,standard_value,class
+CHEMBL1830985,CN(Cc1ccccc1)Cc1ccccc1CNc1ccnc2cc(Cl)ccc12,58000.0,inactive
+CHEMBL1830986,CN(Cc1ccccc1)Cc1cccc(CNc2ccnc3cc(Cl)ccc23)c1,36000.0,inactive
+CHEMBL1830987,CN(Cc1ccccc1)Cc1ccc(CNc2ccnc3cc(Cl)ccc23)cc1,69000.0,inactive
+CHEMBL114,CC(C)(C)NC(=O)[C@@H]1C[C@@H]2CCCC[C@@H]2CN1C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@H](CC(N)=O)NC(=O)c1ccc2ccccc2n1,13000.0,inactive
+CHEMBL2170036,Clc1cccc(C(Nc2ccnc3cc(Cl)ccc23)c2ccc(CN3CCNCC3)cc2)c1,10500.0,inactive
+CHEMBL6966,COc1ccc(CCN(C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC,30000.0,inactive
+CHEMBL2170034,Clc1ccc(C(Nc2ccnc3cc(Cl)ccc23)c2ccc(CN3CCNCC3)cc2)cc1,10300.0,inactive
+CHEMBL2181208,Clc1ccc2c(Nc3ccc4c(c3)NCN(Cc3ccccc3)C4)ccnc2c1,228000.0,inactive
+CHEMBL3288452,CCN(CC)C/C=C(\c1ccc(Cl)cc1)c1ccccn1,321000.0,inactive
+CHEMBL3288457,CN(C)CCC(c1cccc(Cl)c1)c1ccccn1,63000.0,inactive
+CHEMBL3286418,CN(C)CCCC(c1cccc(Cl)c1)c1ccccn1,66000.0,inactive
+CHEMBL3288467,CN(C)CCCCC(c1ccc(Cl)cc1)c1ccccn1,180000.0,inactive
+CHEMBL505,CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1,54000.0,inactive
+CHEMBL643,CC(CN1c2ccccc2Sc2ccccc21)N(C)C,85000.0,inactive
+CHEMBL506,COc1cc(NC(C)CCCN)c2ncccc2c1,68000.0,inactive
