@@ -1,0 +1,13 @@
+molecule_chembl_id,canonical_smiles,standard_value,class
+CHEMBL42583,CS(=O)(=O)N[C@@H](CCCCN)C(=O)NC[C@H](CC1(C(=O)N[C@@H](Cc2ccc(O)cc2)C(=O)O)CCCC1)C(=O)O,3.4,active
+CHEMBL1778526,CC(C)CC[C@H](N[C@@H](CCc1ccccc1)C(=O)O)C(=O)N[C@@H](Cc1ccc(-c2ccccc2)cc1)C(=O)O,1.5,active
+CHEMBL1778527,CCC[C@H](NC1(C(=O)N[C@@H](Cc2nc(CC)co2)C(=O)O)CCCC1)C(=O)O,130.0,active
+CHEMBL1778528,CCC[C@H](NC1(C(=O)N[C@@H](Cc2nc(CC(C)C)co2)C(=O)O)CCCC1)C(=O)O,75.0,active
+CHEMBL1778529,CCC[C@H](NC1(C(=O)N[C@@H](Cc2nc(-c3ccccc3)co2)C(=O)O)CCCC1)C(=O)O,25.0,active
+CHEMBL1778530,CCC[C@H](NC1(C(=O)N[C@@H](Cc2ncc(-c3ccccc3)o2)C(=O)O)CCCC1)C(=O)O,82.0,active
+CHEMBL1778531,COCC[C@H](NC1(C(=O)N[C@@H](Cc2nc(-c3ccccc3)co2)C(=O)O)CCCC1)C(=O)O,130.0,active
+CHEMBL1778532,COCC[C@H](NC1(C(=O)N[C@@H](Cc2ncc(-c3ccccc3)o2)C(=O)O)CCCC1)C(=O)O,270.0,active
+CHEMBL1778533,COCC[C@H](NC1(C(=O)N[C@@H](Cc2nc(C)c(-c3ccccc3)o2)C(=O)O)CCCC1)C(=O)O,210.0,active
+CHEMBL1778534,COCC[C@H](NC1(C(=O)N[C@@H](Cc2ncc(-c3ccc(Cl)cc3)o2)C(=O)O)CCCC1)C(=O)O,195.0,active
+CHEMBL1778535,COCC[C@H](NC1(C(=O)N[C@@H](Cc2nnc(-c3ccccc3)o2)C(=O)O)CCCC1)C(=O)O,3000.0,intermediate
+CHEMBL1778536,COCC[C@H](NC1(C(=O)N[C@@H](Cc2nc(-c3ccccc3)no2)C(=O)O)CCCC1)C(=O)O,58.0,active
